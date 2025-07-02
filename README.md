@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on a next.js project to help me personally with setting goals and tracking the progress<br>👯 I'm looking to collaborate on any web and mobile app project<br>🤝 I'm looking for help any web Project in React or Vue<br>🌱 I'm currently learning Flutter and Java<br>💬 Ask me about anything really<br>⚡ Fun fact, I play basketball, a lot
+# Hope Kali
+🔭 I'm currently working on a next.js project to help me personally with setting goals and tracking the progress<br>👯 I'm looking to collaborate on any web and mobile app project<br>🤝 🌱 I'm currently learning Flutter and Java<br>⚡ Fun fact, I play basketball, a lot
 
 
 ## 🌐 Socials:
