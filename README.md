@@ -1,5 +1,5 @@
 # About Me:
-👯 I'm looking to collaborate on any web and mobile app project<br>🤝 🌱 I'm currently learning Flutter and Java<br>⚡ Fun fact, I play basketball, a lot
+👯 I'm looking to collaborate on any web and mobile app (Android) project<br>🤝 🌱 I'm currently learning Flutter and Java<br>⚡ Fun fact, I play basketball, a lot
 
 
 ## 🌐 Socials:
